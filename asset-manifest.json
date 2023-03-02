@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mod3lab/static/css/main.073c9b0a.css",
+    "main.js": "/mod3lab/static/js/main.b77cc348.js",
+    "static/js/787.2c6477de.chunk.js": "/mod3lab/static/js/787.2c6477de.chunk.js",
+    "index.html": "/mod3lab/index.html",
+    "main.073c9b0a.css.map": "/mod3lab/static/css/main.073c9b0a.css.map",
+    "main.b77cc348.js.map": "/mod3lab/static/js/main.b77cc348.js.map",
+    "787.2c6477de.chunk.js.map": "/mod3lab/static/js/787.2c6477de.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.b77cc348.js"
+  ]
+}
